@@ -1,0 +1,1 @@
+conversão de tipos (typecast)
